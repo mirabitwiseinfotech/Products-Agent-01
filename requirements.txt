@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+pydantic-settings
+pymongo>=4.11
+typer
+rich
+google-genai
+python-dotenv
